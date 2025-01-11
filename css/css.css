@@ -1,0 +1,567 @@
+
+body {
+   background-color: #12db16;
+}
+element.style {
+    margin-top: 6px;
+}
+.cb-checkbox, .cb-radio {
+    padding: 0;
+    /* text-transform: uppercase; */
+}
+.cb-checkbox, .cb-radio {
+    padding: 3px 0;
+    color: inherit;
+    cursor: pointer;
+    overflow: hidden;
+    font-size: inherit;
+    font-weight: 400;
+    display: inline-block;
+    line-height: 18px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+label {
+    cursor: default;
+}
+element.style {
+}
+.col-xs-4 {
+    width: 33.33333333%;
+}
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+element.style {
+}
+.btn.btn-flat {
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-width: 1px;
+}
+.btn-primary {
+    background-color: #3c8dbc;
+    border-color: #367fa9;
+}
+.btn {
+    border-radius: 3px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid transparent;
+}
+.btn-block {
+    display: block;
+    width: 100%;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 82px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 14px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+button {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+   
+    text-rendering: auto;
+  
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+ 
+    margin: 100em;
+    padding: 1px 16px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+.cb-checkbox .cb-inner, .cb-checkbox i {
+    border-radius: 10px;
+}
+.cb-checkbox i {
+    top: 1px;
+    left: 2px;
+    display: block;
+    position: absolute;
+}
+
+.cb-checkbox .cb-inner, .cb-checkbox i {
+    width: 18px;
+    height: 18px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+
+
+
+
+element.style {
+}
+.col-xs-4 {
+    width: 33.33333333%;
+}
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+    float: left;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+.form-group.has-success .form-control, .form-group.has-success .input-group-addon {
+    border-color: #00a65a;
+    box-shadow: none;
+}
+
+.has-success .form-control {
+    border-color: #12db16;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+}
+.has-feedback .form-control {
+    padding-right: 42.5px;
+}
+.form-control:not(select) {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.form-control {
+    border-radius: 0;
+    box-shadow: none;
+    border-color: #0ed85c;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #d41010;
+    background-color: #e8f0fe;
+    background-image: none;
+    border: 1px solid rgb(7, 223, 25);
+    border-radius: 4px;
+   -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+}
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+input {
+    line-height: normal;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+input:-internal-autofill-selected {
+    appearance: menulist-button;
+    background-image: none !important;
+    background-color: -internal-light-dark(rgb(232, 240, 254), rgba(14, 86, 219, 0.4)) !important;
+    color: fieldtext !important;
+}
+user agent stylesheet
+input[type="text" i] {
+    padding: 1px 2px;
+}
+user agent stylesheet
+input {
+    writing-mode: horizontal-tb !important;
+   
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(245, 236, 236), rgb(250, 250, 250));
+    border-image: initial;
+}
+
+
+
+
+.login-box .logo {
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+    margin-top: -16px;
+    margin-bottom: 8px;
+}
+
+
+.divora {
+    height: 10000px;
+    width: 1000px;
+}
+
+.div1 {
+    background-color: rgba(22, 10, 240, 0.301);
+    box-sizing: border-box;
+    margin: 50PX;
+    padding: 50PX;
+    display: inline-block;
+    height: 600px;
+    width: 90%;
+}
+.a1t {
+    padding: 110px;
+    margin: 50px;
+}
+.a1h4 {
+    font-size: 70px;
+    color: rgb(103, 162, 180);
+}
+.a1 {
+  
+    font-weight: bold;
+    
+    position: static;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    width: 30%;
+
+    box-sizing: content-box;
+    text-decoration: none;
+}
+.a1 , .a2 ,.a3 , .a4 {
+    background-color: rgba(25, 82, 187, 0.685);
+    color: rgb(48, 160, 67);
+    display: inline;
+    font-size: 30px;
+}
+.a1:hover,
+.a3:hover,
+.a2:hover,
+.a4:hover{
+    background-color:  rgb(48, 160, 67);
+    color:rgba(25, 82, 187, 0.685);
+}
+
+.a2 {
+    
+   
+    font-weight: bold;
+
+    position: static;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    width: 30%;
+
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.a3 {
+   
+    font-weight: bold;
+
+    position: static;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    width: 30%;
+  
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.a4 {
+  
+    font-weight: bold;
+
+    position: static;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    width: 30%;
+
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+.dot {
+    text-align: center;
+    position: fixed;
+    height: 60px;
+    width: 60px;
+    border-radius:80%;
+    display: inline-block;
+    margin: 90px;
+    animation: loading 2s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+  }
+  
+  @keyframes loading {
+    0%,
+    100% {
+      transform: translatey(-2.5rem);
+      background-color: #479cd8;
+    }
+    60% {
+      transform: translatey(2.5rem);
+      background-color: #f30d0d;
+    }
+    20% {
+        transform: translatey(2.5rem);
+        background-color: #26077a;
+      }
+  }
+
+
+  // Body reset
+  
+  html {
+    font-size: 15px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family:    'Source Sans Pro',sans-serif;
+    
+  } 
+ 
+  // Reset fonts for relevant elements
+  input,
+  button,
+  select,
+  textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+  
+
+  
+ 
+  
+  
+  // Figures
+  //
+  // We reset this here because previously Normalize had no `figure` margins. This
+  // ensures we don't break anyone's use of the element.
+  
+  figure {
+    margin: 0;
+  }
+  
+  
+  // Images
+  
+  img {
+    vertical-align: middle;
+  }
+  
+  // Responsive images (ensure images don't scale beyond their parents)
+  .img-responsive {
+    .img-responsive();
+  }
+  
+  // Rounded corners
+  .img-rounded {
+    border-radius: @border-radius-large;
+  }
+  
+
+  .img-thumbnail {
+    padding: @thumbnail-padding;
+    line-height: @line-height-base;
+    background-color: @thumbnail-bg;
+    border: 1px solid @thumbnail-border;
+    border-radius: @thumbnail-border-radius;
+    .transition(all .2s ease-in-out);
+  
+    // Keep them at most 100% wide
+    .img-responsive(inline-block);
+  }
+  
+  // Perfect circle
+  .img-circle {
+    border-radius: 50%; // set radius in percents
+  }
+  
+  
+  // Horizontal rules
+  
+  hr {
+    margin-top: @line-height-computed;
+    margin-bottom: @line-height-computed;
+    border: 0;
+    border-top: 1px solid @hr-border;
+  }
+  
+  
+  // Only display content to screen readers
+  //
+  // See: https://a11yproject.com/posts/how-to-hide-content
+  
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+  
+  // Use in conjunction with .sr-only to only display content when it's focused.
+  // Useful for "Skip to main content" links; see https://www.w3.org/TR/2013/NOTE-WCAG20-TECHS-20130905/G1
+  // Credit: HTML5 Boilerplate
+  
+  .sr-only-focusable {
+    &:active,
+    &:focus {
+      position: static;
+      width: auto;
+      height: auto;
+      margin: 0;
+      overflow: visible;
+      clip: auto;
+    }
+  }
+  
+  
+  // iOS "clickable elements" fix for role="button"
+  //
+  // Fixes "clickability" issue (and more generally, the firing of events such as focus as well)
+  // for traditionally non-focusable elements with role="button"
+  // see https://developer.mozilla.org/en-US/docs/Web/Events/click#Safari_Mobile
+  
+  [role="button"] {
+    cursor: pointer;
+  }
+  
