@@ -1,4 +1,10 @@
+html {
+  background-color: white;
+}
 
+body.hold-transition.login-page {
+  background-color: white;
+}
 body {
    background-color: #12db16;
 }
