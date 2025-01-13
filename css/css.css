@@ -1,13 +1,125 @@
 html {
-  background-color: white;
+    background-color: #f8f8f8;
+  }
+  .login-box {
+    box-sizing: border-box;
+    display: block;
+    height: 446.984px;
+    margin-bottom: 87px;
+    margin-left: 228px;
+    margin-right: 228px;
+    margin-top: 87px;
+    max-width: 420px;
+    width: 420px;
+    font-weight: 400;
+    line-height: 20px;
+    text-size-adjust: 100%;
 }
+h4.login-box-msg{
+    font-size: 18px;
+  }
 
-body.hold-transition.login-page {
-  background-color: white;
-}
-body {
-   background-color: #12db16;
-}
+
+  .cb-checkbox.checkbo{
+    size: 0px;
+    color: #12db16;
+  }
+  .login-box-msg{
+    box-sizing: border-box;
+    display: block;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 400px;
+    font-family: 'source sans pro';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.8px;
+    text-align: center;
+  }
+  .btn {      display: block;
+
+  }
+  body.hold-transition.login-page {
+    background-color: #f8f8f8;
+  }
+  button.btn.btn-default.dropdown-toggle.btn-transparent {color: red;
+    padding: 0px;
+      
+    }
+    .has-feedback .form-control {
+        padding-right: 42.5px;
+        margin: 15px;
+        border-color: #00a65a;
+         box-shadow: none;
+    }
+    .text-center {
+        height: 20px;
+        width: 420px;
+        text-align: center;
+        font-size: 14px;
+        font-family: source;
+        box-sizing: border-box;
+        text-align: center;
+        display: block;
+        font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+        font-weight: 400;
+        overflow-x: hidden;
+        overflow-y: auto;
+        line-height: 1.42857143;
+        color: #333333;
+        margin: 25px;
+
+
+    }
+    div.box.box-success {
+        width: 420px;
+        max-width: 420px;
+        margin: 20% auto;
+  
+    }
+    body {
+        font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+        font-weight: 100;
+        overflow-x: hidden;
+        overflow-y: auto;
+        font-style: normal;
+        background-color: #1b871d;
+    }
+    .cb-checkbox i {
+        top: 1px;
+        left: 2px;
+        display: block;
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+        font-weight: 400;
+        overflow-x: hidden;
+        overflow-y: auto;
+        font-size: 14px;
+        line-height: 18px;
+        color: #333333;
+        background-color: #fff;
+    }
+    .col-xs-8 {
+        width: 66.66666667%;
+        float: left;
+    }
+    #rememberMe {
+        width: 0px;
+    }
+    .col-xs-4 {
+        width: 33.33333333%;
+        float: right;
+    }
+  
+  body.hold-transition.login-page {
+    background-color: #f8f8f8;
+  }
 element.style {
     margin-top: 6px;
 }
